@@ -10,7 +10,7 @@ Board Size: 80 x 100 mm
 
 Layers: 2
 
-![PCB Top](https://user-images.githubusercontent.com/32103938/113085486-499c7d80-91b6-11eb-90d4-9dc4b88d4215.JPG)
+![PCB Top](https://github.com/stefschin/BrewPiLess-32-PCB/blob/master/PCB%20Top.JPG)
 
 For connections see:
 
@@ -49,7 +49,6 @@ You can supply 5V throught USB from ESP32 too, but you are limited to 500mA from
 - 1 One Wire port, mostly for read temperature sensors like DS18B20, you can connect in parallel. Populate R1=4.7K for less than 3 sensors. 
 - 1 extra Input/Outputs for sensores or 1-relay Module (P1)
 - 1 OLED I2C connection for 4 or 7 pin 0.96 module (P4)
-- 1 extra I2C port, for display LCD or ADC module ADS1115 (P11), you can populate R2=4.7K and R3=4.7K if your I2C device doesn't have it. Oled/LCD and ADC module have it.
+- 1 extra I2C port, for display LCD or ADC module ADS1115 (P11). You can select between 5 and 3.3V for this connector, soldering JP2 between 1-2 or 2-3 pins. Populate R2=4.7K and R3=4.7K if your I2C device doesn't have it. Oled/LCD and ADC module have it.
 - 1 JTAG connection for debug with [ESP-Prog](https://www.amazon.com/ESP-Prog-Development-Program-Downloader-Compatible/dp/B07WGDJF61/)
-
 
