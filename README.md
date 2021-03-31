@@ -52,3 +52,6 @@ You can supply 5V throught USB from ESP32 too, but you are limited to 500mA from
 - 1 extra I2C port, for display LCD or ADC module ADS1115 (P11). You can select between 5 and 3.3V for this connector, soldering JP2 between 1-2 or 2-3 pins. Populate R2=4.7K and R3=4.7K if your I2C device doesn't have it. Oled/LCD and ADC module have it.
 - 1 JTAG connection for debug with [ESP-Prog](https://www.amazon.com/ESP-Prog-Development-Program-Downloader-Compatible/dp/B07WGDJF61/)
 
+***Did you like it? well donate me a beer***  :beers:
+
+[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.me/stefschin)
