@@ -18,7 +18,9 @@ See https://github.com/vitotai/BrewPiLess/blob/master/doc/ESP32Pins.md
 
 Free to download gerbers to build yourself or send to a PCB Manufacturer.
 
-Purchase directly to PCBWay: https://www.pcbway.com/project/shareproject/BrewPiLess_ESP32_Rev_00.html
+Purchase directly from PCBWay: 
+
+<a href="https://www.pcbway.com/project/shareproject/BrewPiLess_ESP32_Rev_00.html"><img src="https://www.pcbway.com/project/img/images/frompcbway.png" alt="PCB from PCBWay" /></a>
 
 # Power Supply options
 ## External PS between 8-28Vdc
