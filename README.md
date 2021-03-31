@@ -10,7 +10,7 @@ Board Size: 80 x 100 mm
 
 Layers: 2
 
-![PCB Top](https://github.com/stefschin/BrewPiLess-32-PCB/blob/master/PCB%20Top.JPG)
+![PCB Top](https://github.com/stefschin/BrewPiLess-32-PCB/blob/master/Top%20view%203D.JPG)
 
 For connections see:
 
