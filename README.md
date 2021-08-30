@@ -41,7 +41,7 @@ Power supply input on J1 too.
 
 You can supply 5V throught USB from ESP32 too, but you are limited to 500mA from a computer, and 1A from an external 5V power supply
 
-## 4-Pin OLED
+## Warning 4-Pin OLED!!
 
 Be carefull with 4-pin OLED, it has to be GND-VCC-SCK-SDA order! Somes are VCC-GND and can burn it!!!
 Check-it before connecting.
