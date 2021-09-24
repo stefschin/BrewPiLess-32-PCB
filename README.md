@@ -10,7 +10,7 @@ Board Size: 80 x 100 mm
 
 Layers: 2
 
-![PCB Top](https://github.com/stefschin/BrewPiLess-32-PCB/blob/master/Top%20view%203D.JPG)
+![PCB Top](https://github.com/stefschin/BrewPiLess-32-PCB/blob/master/Images/Top%20view%203D%20Blue.JPG)
 
 For connections see:
 
@@ -51,7 +51,7 @@ Check-it before connecting.
 - 3 digital input for Rotary Encoder or Switches (P6) 
 - 2 extra Input/Outputs for sensores or 2-relay Module (P8)
 - 4 Input/Outputs for 4-relay Module (P5)
-- 1 output for buzzer module or you can populate R6=10K, Q1=2N7000/2N7002 Mosfet transistor channel N, BZ1=5Vdc buzzer - diam=12mm
+- 1 output for buzzer module or you can populate R6=10K, Q1=2N7000/2N7002 Mosfet transistor channel N, BZ1=5Vdc buzzer - diam=12mm (+ on right side!!)
 - 1 UART0 comm port (P9), you can interface it with a USB/RS-232 TTL module to communicate with PC (3.3V compatible)
 - 1 One Wire port, mostly for read temperature sensors like DS18B20, you can connect in parallel. Populate R1=4.7K for less than 3 sensors. 
 - 1 extra Input/Outputs for sensores or 1-relay Module (P1)
