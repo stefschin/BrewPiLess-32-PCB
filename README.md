@@ -14,7 +14,7 @@ Layers: 2
 
 For connections see:
 
-See https://github.com/vitotai/BrewPiLess/blob/master/doc/ESP32Pins.md
+See [https://github.com/vitotai/BrewPiLess/blob/master/docs/13.ESP32Pins.md](https://github.com/vitotai/BrewPiLess/blob/master/docs/13.ESP32Pins.md)
 
 Free to download gerbers to build yourself or send to a PCB Manufacturer.
 
